@@ -1,0 +1,231 @@
+body {
+  margin:0;
+}
+
+header {
+  background-color: deepskyblue;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 30px;
+  color:white;
+}
+
+
+
+.container {
+  margin:0 30px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+
+
+.page2 {
+  width: 100%;
+
+}
+
+.header-right ul {
+  display: flex;
+
+}
+
+.header-left {
+  line-height: 56px;
+}
+
+.header-right li {
+  margin-right: 30px;
+}
+
+.main img {
+  margin:30px 0;
+  width:100%;
+  height:auto;
+}
+
+.text {
+  width: 453px;
+}
+
+.p1 {
+  font-weight:bold;
+  font-size:20px;
+}
+
+.p2 {
+
+}
+
+.p2 a {
+  color:white;
+  text-decoration: none;
+  display: inline-block;
+  padding:12px 20px;
+  background-color: blue;
+  width: 100px;
+  text-align: center;
+  color: white;
+  border-radius: 5px;
+}
+
+.main {
+  position: relative;
+}
+
+.main-text {
+  position: absolute;
+  top:30%;
+  left:50%;
+  color:white;
+}
+
+.wrapper-bar {
+  display: flex;
+  margin:0 14px;
+  width: 100%;
+
+}
+
+.wrapper-bar p {
+  width:400px;
+  text-align: center;
+  padding: 12px 0;
+}
+
+.pp {
+   background-color: deepskyblue;
+}
+
+.ppp {
+  background-color: lightblue;
+}
+
+.left-bottom img {
+  width:100%;
+  height:auto;
+}
+
+.wrapper-left {
+
+}
+
+.left2 {
+  display: flex;
+}
+
+.left-bottom {
+  margin:0 14px;
+}
+
+.left-bottom p {
+  margin-left:8px;
+  width: 100%;
+}
+
+.nature1 {
+  width:330px;
+  height:240px;
+}
+
+.nature2 {
+  width:80px;
+  height:80px;
+  border-radius: 50%;
+  border:1px solid white;
+}
+
+.p10 {
+  margin: 40px 129px 11px ;
+}
+
+.p11 {
+  width:314px;
+  margin: 0 11px 10px;
+}
+
+
+
+.right-bottom {
+  position: relative;
+}
+
+.nature2 {
+  position: absolute;
+  top:45%;
+  left:36.5%;
+}
+
+input {
+  width: 324px;
+    /* padding: 7px; */
+  height: 42px;
+  margin: 16px 0;
+  font-size: 20px;
+}
+
+.page2 {
+  display: flex;
+  justify-content: center;
+
+}
+
+.wrapper-right {
+  padding-left:30px;
+
+}
+
+.footer {
+  margin: 0 80px;
+}
+
+.a-you a {
+  text-decoration: none;
+  color: gray;
+  margin: 12px 0;
+  display: inline-block;
+}
+
+.a-3 {
+  display:flex;
+  flex-direction: column;
+}
+
+.p-same {
+  font-weight: bold;
+  border-left: 4px solid black;
+  padding-left: 10px;
+}
+
+.center-contents {
+  margin-bottom: 25px;
+}
+
+.center-contents img {
+  width: 80px;
+  height:80px;
+}
+
+.center-contents {
+  display: flex;
+}
+
+.right-content {
+  margin:0 20px;
+}
+
+.right-content p {
+  width: 312px;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  width: 1048px;
+  margin: 0 auto;
+
+}
+
+.footer-center {
+  margin: 0 30px;
+  width: 432px;
+}
